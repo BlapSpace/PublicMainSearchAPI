@@ -1,0 +1,14 @@
+{
+    "essentials": {
+        "100": "Essential initialization error",
+        "101": "Redis connection error",
+        "102": "MongoDB connection error",
+        "103": "Neo4J connection error",
+        "104": "ElasticSearch connection error"
+    },
+    "services": {
+        "PCSearch": {
+            "101": "..."
+        }
+    }
+}
